@@ -16,10 +16,10 @@ This project was designed to:
 - Showcase dashboard-driven decision support
 
 ## 📸 Screenshots
-Embed screenshots here:
+![Lead Listing](https://github.com/user-attachments/assets/6f38cb69-783c-4ceb-bdca-ea7c4769bdca)
 
 ## Project Link
 ![View on Figma](https://www.figma.com/design/9svbgHwaNWTrPhnWtN1MXR/Deltax?t=GX9CF012w48BqNyA-1)
 
-## Screenshots
-![Lead Listing](https://github.com/user-attachments/assets/6f38cb69-783c-4ceb-bdca-ea7c4769bdca)
+
+
